@@ -26,7 +26,7 @@ https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
 - update: `sudo apt-get update`
 - install: `sudo apt-get install docker-ce`
 
-If nothing happen, for new distrib, find .deb file: https://download.docker.com/linux/ubuntu/dists/artful/pool/\
+If nothing happens, eg: for new distrib, find .deb file: eg for Artful https://download.docker.com/linux/ubuntu/dists/artful/pool/ in the *edge* directory
 
 # Docker compose
 https://docs.docker.com/compose/install/#install-compose
