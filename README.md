@@ -41,5 +41,7 @@ https://docs.docker.com/engine/installation/linux/linux-postinstall/
 - log out and log back in
 - test `docker run hello-world`
 
-
+# mysql workbench
+https://dev.mysql.com/downloads/repo/apt/
+- run `sudo apt-get install mysql-workbench`
 
