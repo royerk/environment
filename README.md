@@ -1,5 +1,11 @@
 # environment
 
+# Installing alongside (or not) windows 10
+* disable fast boot on w10
+* make bootable usb
+* disable secure boot in bios (migth need to stop encryption such as bitlocker first)
+* if ssd, change current setting for SATA to AHCI (in bios), do this at the very end when you are ready to install linux because it might prevent windows from starting
+
 # Nicer terminal
 https://github.com/robbyrussell/oh-my-zsh
 - sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
